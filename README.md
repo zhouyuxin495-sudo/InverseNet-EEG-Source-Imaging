@@ -43,9 +43,6 @@ The PhysicsLayer remains fully trainable, allowing physical and data-driven know
 
 The forward model uses a three-shell boundary element model (BEM) built from the MNE Sample Dataset. Training data consists of 200,000 simulated EEG-source pairs with mixed SNR (5–25 dB).
 
-## Acknowledgments
-
-This project was developed under the guidance of Prof. Roarke Horstmeyer and TA Josh Lerner.
 
 ## Author
 
