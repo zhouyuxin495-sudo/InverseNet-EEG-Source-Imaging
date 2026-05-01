@@ -1,6 +1,6 @@
 # InverseNet: Physics-Constrained Deep Learning for EEG Source Imaging
 
-This repository contains the code and final project paper for **BME 548L: Machine Learning and Imaging** at Duke University (Spring 2026).
+This repository contains the code for my final project in **BME 548L: Machine Learning and Imaging** at Duke University (Spring 2026).
 
 ## Overview
 
@@ -30,7 +30,6 @@ The PhysicsLayer remains fully trainable, allowing physical and data-driven know
 ## Repository Contents
 
 - `EEG_VSCode_clean.ipynb` — Jupyter notebook containing data generation, model definition, training, and evaluation
-- `Yuxin_final_report.pdf` — Final project paper
 
 ## Dependencies
 
